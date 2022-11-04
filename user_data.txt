@@ -1,0 +1,6 @@
+naveen,naveen,5,10000
+kumar,kumar,2,1000
+pooja,Pooja,10,1000000
+pooja,Pooja,10,1000000
+madhumitha,madhu,0
+madhu,madhu,0
